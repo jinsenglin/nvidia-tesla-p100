@@ -1,1 +1,3 @@
 nvidia-diag-driver-local-repo-rhel7-396.26-1.0-1.x86_64.rpm
+cuda-repo-rhel7-9-2-local-9.2.88-1.x86_64.rpm
+cuda-repo-rhel7-9-2-local-cublas-update-1-1.0-1.x86_64.rpm
