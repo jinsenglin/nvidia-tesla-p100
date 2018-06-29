@@ -17,3 +17,8 @@ https://192.168.128.101/ (ADMIN/ADMIN)
 * File: cuda-repo-rhel7-9-2-local-cublas-update-1-1.0-1.x86_64.rpm
   * Size: 144M
   * https://developer.nvidia.com/cuda-downloads
+
+# DO AGAIN AFTER REBOOT
+
+* 00-eth0.sh
+* 06-nvidia-cuda-toolkit_part2.sh
