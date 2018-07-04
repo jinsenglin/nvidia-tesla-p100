@@ -2,6 +2,10 @@
 
 https://192.168.128.101/ (ADMIN/ADMIN)
 
+# SSH LOGIN
+
+root@172.16.100.101
+
 # TARGET OS
 
 * CentOS 7.2
