@@ -27,7 +27,7 @@ root@172.16.100.101
       * libcudnn7_7.1.4.18-1+cuda9.2_amd64.deb 124M
       * libcudnn7-dev_7.1.4.18-1+cuda9.2_amd64.deb 116M
       * libcudnn7-doc_7.1.4.18-1+cuda9.2_amd64.deb 4.3M
-      * cudnn_samples_v7.tgz (extracted from libcudnn7_*.deb)
+      * cudnn_samples_v7.tgz 3M (extracted from libcudnn7_*.deb)
 
 # MAKE cudnn_samples_v7.tgz FROM DEB FILES
 
