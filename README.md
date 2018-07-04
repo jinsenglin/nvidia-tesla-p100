@@ -1,3 +1,17 @@
+# STATUS
+
+* 00-eth0.sh [ok]
+* 01-selinux.sh [ok]
+* 02-firewalld.sh [ok]
+* 03-yum.sh [ok]
+* 04-nvidia-gpu-driver_part1 [ok]
+* 05-nvidia-smi.sh [ok]
+* 06-nvidia-cuda-toolkit [ok]
+* 07-nvidia-cudnn-library [ok]
+* 08-nvidia-docker [ok]
+* 09-nvidia-k8s-device-plugin
+* 10-kubeflow.sh
+
 # IPMI WEB CONSOLE
 
 https://192.168.128.101/ (ADMIN/ADMIN)
