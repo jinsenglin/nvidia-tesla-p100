@@ -20,7 +20,7 @@ https://192.168.128.101/ (ADMIN/ADMIN)
 
 root@172.16.100.101
 
-# TARGET OS
+# BASE OS
 
 * CentOS 7.2
 
