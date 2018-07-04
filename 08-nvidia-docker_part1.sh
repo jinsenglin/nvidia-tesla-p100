@@ -12,7 +12,7 @@ sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/dock
 sudo yum list docker-ce --showduplicates | sort -r
 sudo yum -y install docker-ce-18.03.1.ce-1.el7.centos
 
-systemctl start docker
-systemctl enable docker
+sudo systemctl start docker
+sudo systemctl enable docker
 
-docker run hello-world
+sudo docker run hello-world
